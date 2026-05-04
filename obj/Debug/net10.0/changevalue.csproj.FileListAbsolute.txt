@@ -1,0 +1,15 @@
+C:\Users\ginag\changevalue\bin\Debug\net10.0\changevalue.exe
+C:\Users\ginag\changevalue\bin\Debug\net10.0\changevalue.deps.json
+C:\Users\ginag\changevalue\bin\Debug\net10.0\changevalue.runtimeconfig.json
+C:\Users\ginag\changevalue\bin\Debug\net10.0\changevalue.dll
+C:\Users\ginag\changevalue\bin\Debug\net10.0\changevalue.pdb
+C:\Users\ginag\changevalue\obj\Debug\net10.0\changevalue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginag\changevalue\obj\Debug\net10.0\changevalue.AssemblyInfoInputs.cache
+C:\Users\ginag\changevalue\obj\Debug\net10.0\changevalue.AssemblyInfo.cs
+C:\Users\ginag\changevalue\obj\Debug\net10.0\changevalue.csproj.CoreCompileInputs.cache
+C:\Users\ginag\changevalue\obj\Debug\net10.0\changevalue.sourcelink.json
+C:\Users\ginag\changevalue\obj\Debug\net10.0\changevalue.dll
+C:\Users\ginag\changevalue\obj\Debug\net10.0\refint\changevalue.dll
+C:\Users\ginag\changevalue\obj\Debug\net10.0\changevalue.pdb
+C:\Users\ginag\changevalue\obj\Debug\net10.0\changevalue.genruntimeconfig.cache
+C:\Users\ginag\changevalue\obj\Debug\net10.0\ref\changevalue.dll
